@@ -21,7 +21,6 @@ Schematic:
 
 Sources:
 + www.wiki.c2.com/?QuineProgram ; 
-+ www.programiz.com/c-programming/examples/source-code-output ; 
 + www.nyx.net/~gthompso/quine.htm ;
 
 How To Run:
