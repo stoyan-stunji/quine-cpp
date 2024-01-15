@@ -1,3 +1,5 @@
+Simple implementation of a quine program made in C++.
+
 Definition:
 + a computer program which takes no input and produces a copy of its own source code as its only output;
 + a.k.a "self-replicating programs", "self-reproducing programs", and "self-copying programs";
