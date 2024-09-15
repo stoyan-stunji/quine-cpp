@@ -22,6 +22,3 @@ Schematic:
 Sources:
 + www.wiki.c2.com/?QuineProgram ; 
 + www.nyx.net/~gthompso/quine.htm ;
-
-How To Run:
-+ TO:DO ;
